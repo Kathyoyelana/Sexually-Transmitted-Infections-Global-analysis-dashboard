@@ -11,7 +11,7 @@ Compare STI cases across countries and regions
 Analyze total cases and death over time
 Identify regions with higher disease burden
 ## Tools used
-Microsoft Exce
+Microsoft Excel
 Power BI
 ## Key Insights
 The dashboard provides interactive visualization that allows users to explore STI trends by disease, country, and region.
